@@ -1,2 +1,4 @@
+jpomdocker/jpom:2.11.8
 redis:7.0.9
 mysql
+
