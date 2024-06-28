@@ -1,8 +1,9 @@
+jpomdocker/jpom:2.11.6
 # jpomdocker/jpom:2.11.8
 # goharbor/prepare:v2.11.0
 # redis:7.0.9
 # mysql
 # 1panel/openresty:1.21.4.3-3-3-focal
-openfalcon/falcon-plus:v0.3
+# openfalcon/falcon-plus:v0.3
 
 
